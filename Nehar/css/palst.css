@@ -1,0 +1,76 @@
+.paltxt{
+	box-shadow: 5px 5px 10px #00000028, -5px -5px 15px #ffffff;
+	padding: 2.5%;
+	text-align: center;
+	margin: 2% 5%;
+	-moz-border-radius: 20px;
+	-ms-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-o-border-radius: 20px;
+	overflow: auto;
+}
+
+#argn{
+	font-family: "Helvetica";
+	font-size: 55px;
+	display: inline-block;
+	margin-right: 5%;	
+}
+
+.ele{
+	display: inline-block;
+	background-color: #000000;
+	margin: 0px 5px;
+	border-radius: 50%;
+	width:50px;
+	height:50px;
+}
+
+#ag1{
+	background: linear-gradient(45deg, #39b0e3, #e84174);
+}
+
+#ag2{
+	background: #39b0e3;
+}
+
+#ag3{
+	background: #e84174;
+}
+
+#sb1{
+	background: linear-gradient(45deg, #3a7bfc, #ffb812);
+}
+
+#sb2{
+	background-color: #ffb812;
+}
+
+#sb3{
+	background-color: #3a7bfc;
+}
+
+#ab1{
+	background: linear-gradient(45deg, #a6ebed, #cfbed1);
+}
+
+#ab2{
+	background-color: #cfbed1;
+}
+
+#ab3{
+	background-color: #a6ebed;
+}
+
+#pd1{
+	background: linear-gradient(45deg, #29383b, #d6413e);
+}
+
+#pd2{
+	background-color: #d6413e;
+}
+
+#pd3{
+	background-color: #29383b;
+}
+

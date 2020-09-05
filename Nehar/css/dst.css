@@ -1,0 +1,68 @@
+.destxt{
+	box-shadow: 5px 5px 10px #00000028, -5px -5px 15px #ffffff;
+	padding: 2.5%;
+	text-align: center;
+	margin: 2% 5%;
+	-moz-border-radius: 20px;
+	-ms-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-o-border-radius: 20px;
+	overflow: auto;
+}
+
+.stylep{
+	margin: 0% 2%;
+	width: 70px;
+}
+
+#minimal{
+	font-family: calibri;
+	font-size: 50px;
+	letter-spacing: 5px;
+}
+
+#modern{
+	font-family: "century gothic";
+	font-size: 60px;
+}
+
+#nue{
+	display: inline-block;
+	box-shadow: inset 5px 5px 10px #00000028, inset -5px -5px 15px #ffffff;
+	color: #888888;
+	font-family: arial;
+	font-variant: small-caps;
+	font-size: 250%;
+	font-weight: lighter;
+	-moz-border-radius: 20px;
+	-ms-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-o-border-radius: 20px;
+	padding: 2%;
+	width: 40%;
+	overflow: auto;
+}
+
+#mhip{
+	vertical-align: middle;
+	padding: 10px 15px;
+	border-style: solid;
+	border-color: #444444;
+ 	-moz-border-radius: 15px;
+	-ms-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-o-border-radius: 15px;
+
+}
+
+#mdep{
+	vertical-align: middle;
+	margin: 0% 5%; 
+	box-shadow: 5px 5px 10px #00000028, -5px -5px 15px #ffffff;
+	padding: 15px;
+	-moz-border-radius: 20px;
+	-ms-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-o-border-radius: 20px;
+
+}

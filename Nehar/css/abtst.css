@@ -1,0 +1,25 @@
+.abttxt{
+	box-shadow: 5px 5px 10px #00000028, -5px -5px 15px #ffffff;
+	padding: 2% 5%;
+	margin: 2% 5%;
+	text-align: center;
+	font-family: cursive;
+	font-size: 150%;
+	font-weight: lighter;
+	font-style: italic;
+	-moz-border-radius: 20px;
+	-ms-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-o-border-radius: 20px;
+	overflow: auto;
+}
+
+.stylea{
+	padding-right: 5%;
+	margin: 0% 2%;
+	width: 7.5%;
+}
+
+#mlink{
+	color: #0e5cab;
+}
